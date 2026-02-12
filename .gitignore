@@ -1,0 +1,8 @@
+Pods/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.playground/xcworkspace/xcuserdata/
+*.mp4
